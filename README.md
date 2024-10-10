@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammad-86
+- 👋 Hi, I’m @mohammad
 - 👀 I’m interested in Programming, deep learning, artificial intelligence and neuroscience
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Project of deep learning, artificial intelligence
